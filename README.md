@@ -7,4 +7,4 @@ I am going very slowly and do a lot of looking up concepts along the way (since 
 I also try out the code examples and exercises here.
 
 
-* no responsibility is taken for the correctness of this information
+##### * no responsibility is taken for the correctness of this information ;)
